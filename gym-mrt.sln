@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "gym-mrt", "project-gym-mtr\gym-mrt.csproj", "{5CB52803-0F1F-4C52-8905-96843BE9F688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gym-mrt", "gym-mrt\gym-mrt.csproj", "{94A134AB-FC1A-4541-B4E0-4344C1760E6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5CB52803-0F1F-4C52-8905-96843BE9F688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5CB52803-0F1F-4C52-8905-96843BE9F688}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5CB52803-0F1F-4C52-8905-96843BE9F688}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5CB52803-0F1F-4C52-8905-96843BE9F688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94A134AB-FC1A-4541-B4E0-4344C1760E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94A134AB-FC1A-4541-B4E0-4344C1760E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94A134AB-FC1A-4541-B4E0-4344C1760E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94A134AB-FC1A-4541-B4E0-4344C1760E6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {3C2434EA-B41E-46FB-8FA4-4F3147EA34E4}
+		SolutionGuid = {EC4D7B96-1ACA-4CD8-9364-729DD78A951C}
 	EndGlobalSection
 EndGlobal

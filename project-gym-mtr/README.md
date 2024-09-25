@@ -1,3 +1,0 @@
-# Gym MRT
-
-Renildo Pereira
