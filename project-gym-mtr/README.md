@@ -1,3 +1,3 @@
-# project-gym-mtr
+# Gym MRT
 
 Renildo Pereira
