@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gym-mrt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f8ff06d728c186905776f7231e7309afa9b56af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a196fb131ecd1ff4e65ba9577901ec57a03f7ee1")]
 [assembly: System.Reflection.AssemblyProductAttribute("gym-mrt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gym-mrt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
