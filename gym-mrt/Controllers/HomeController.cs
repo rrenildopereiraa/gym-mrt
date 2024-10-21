@@ -1,8 +1,8 @@
-using gym_mrt.Models;
+using GymManagementAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace gym_mrt.Controllers
+namespace GymManagementAPI.Controllers
 {
     public class HomeController : Controller
     {
@@ -18,7 +18,12 @@ namespace gym_mrt.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult QuemSomos()
+        {
+            return View();
+        }
+
+        public IActionResult Contactos()
         {
             return View();
         }

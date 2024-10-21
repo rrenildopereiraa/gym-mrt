@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Renildo\\source\\repos\\gym-mrt\\gym-mrt\\gym-mrt.csproj": {}
+    "C:\\Users\\mikec\\source\\repos\\rrenildopereiraa\\gym-mrt\\gym-mrt\\gym-mrt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Renildo\\source\\repos\\gym-mrt\\gym-mrt\\gym-mrt.csproj": {
+    "C:\\Users\\mikec\\source\\repos\\rrenildopereiraa\\gym-mrt\\gym-mrt\\gym-mrt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Renildo\\source\\repos\\gym-mrt\\gym-mrt\\gym-mrt.csproj",
+        "projectUniqueName": "C:\\Users\\mikec\\source\\repos\\rrenildopereiraa\\gym-mrt\\gym-mrt\\gym-mrt.csproj",
         "projectName": "gym-mrt",
-        "projectPath": "C:\\Users\\Renildo\\source\\repos\\gym-mrt\\gym-mrt\\gym-mrt.csproj",
-        "packagesPath": "C:\\Users\\Renildo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Renildo\\source\\repos\\gym-mrt\\gym-mrt\\obj\\",
+        "projectPath": "C:\\Users\\mikec\\source\\repos\\rrenildopereiraa\\gym-mrt\\gym-mrt\\gym-mrt.csproj",
+        "packagesPath": "C:\\Users\\mikec\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mikec\\source\\repos\\rrenildopereiraa\\gym-mrt\\gym-mrt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Renildo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mikec\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
